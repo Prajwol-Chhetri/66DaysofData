@@ -9,12 +9,12 @@
 **Day1 of 66DaysOfData :books:**
 - **Python**
 - **Topics:** 
-  - **Python syntax, variable assignment and numbers**
-  - **Functions**
-  - **Booleans and Conditionals**
-  - **Lists**
-  - **Loops and List Comprehensions**
-  - **Strings and Dictionaries**
-  - **Working with External Libraries**
+  - Python syntax, variable assignment and numbers
+  - Functions
+  - Booleans and Conditionals
+  - Lists
+  - Loops and List Comprehensions
+  - Strings and Dictionaries
+  - Working with External Libraries
 
 ![Image]()
