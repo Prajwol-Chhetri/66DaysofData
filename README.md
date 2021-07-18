@@ -6,8 +6,9 @@
 | 1. [**Kaggle**](https://www.kaggle.com/learn) |
 
 
+
 **Day1 of 66DaysOfData :books:**
-- **Python**
+- **Python:** 
 - **Topics:** 
   - Python syntax, variable assignment and numbers
   - Functions
