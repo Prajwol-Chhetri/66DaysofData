@@ -1,5 +1,5 @@
 # 66DaysofData
-![Image](./images/66days.png)
+![Image](./images/66days.jpg)
 
 | Resources |
 | ----- |
