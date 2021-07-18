@@ -15,4 +15,4 @@
   - Lists
   - Loops and List Comprehensions
 
-![Image](./images/Day1.png)
+![Image](./images/Day1.PNG)
