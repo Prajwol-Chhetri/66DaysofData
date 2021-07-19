@@ -16,3 +16,13 @@
   - Loops and List Comprehensions
 
 ![Image](./images/Day1.PNG)
+
+
+**Day2 of 66DaysOfData :books:**
+- **Python:** On my second day of #66DaysofData I learned about strings and dictionaries and their various methods. I also learned about how to work with external libraries in Python. I also did a fun exercise which introduced me to machine learning at the end of the session. I classified the data of people in the Titanic and identified those who had highest chance of survival through random forest model. I hope you will also spend some time learning the topics below. Excited on my journey ahead!!
+- **Topics:**
+  - strings and dictionaries
+  - Working with External Libraries
+  - Titanic Tutorial
+
+![Image](./images/Day2.PNG)
