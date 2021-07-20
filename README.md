@@ -26,3 +26,12 @@
   - Titanic Tutorial
 
 ![Image](./images/Day2.PNG)
+
+
+**Day3 of 66DaysOfData :books:**
+- **Intro to Machine Learning:** On my third day of #66DaysofData I learned about how models are used and how they work in machine learning. I learned about decision tree model and also learned how to improve it. I understoood different terminologies used in the model. Than, I learned how to explore data by using pandas library. I understood the concept of DataFrame and interpreted the data description. I hope you will also spend some time learning the topics below. Excited on my journey ahead!!
+- **Topics:**
+  - How Models Work
+  - Basic Data Exploration 
+
+![Image](./images/Day3.PNG)
