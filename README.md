@@ -35,3 +35,10 @@
   - Basic Data Exploration 
 
 ![Image](./images/Day3.PNG)
+
+**Day4 of 66DaysOfData :books:**
+- **Intro to Machine Learning:** On my fourth day of #66DaysofData I learned how to design a machine learning model. I also designed my first machine learning model using scikit learn library. I trained the model and evaluated its predictions. I hope you will also spend some time learning the topics below. Excited on my journey ahead!!
+- **Topics:**
+  - My First Machine Learning Model
+
+![Image](./images/Day4.PNG)
