@@ -6,7 +6,7 @@
 | 1. [**Kaggle**](https://www.kaggle.com/learn) |
 
 
-**Day1 of 66DaysOfData :books:**
+**Day 1 of 66DaysOfData :books:**
 - **Python:** On my first day of #66DaysofData I revised the basics of python for a fresh start even though I had experience on python. Today I read about various datatypes in python such as booleans, lists, strings, tuples. I also learned about loops and list comprehensions and completed all the exercises on these topics. The Python tutorial along with exercises on kaggle helped me to broaden my knowledge. I hope you will also spend some time learning the topics below. Excited on my journey ahead!!
 - **Topics:**
   - Python syntax, variable assignment and numbers
@@ -42,3 +42,10 @@
   - My First Machine Learning Model
 
 ![Image](./images/Day4.PNG)
+
+**Day5 of 66DaysOfData :books:**
+- **Intro to Machine Learning:** On my fifth day of #66DaysofData I learned to measure the model quality using Mean Absolute Error also known as MAE. I also understood the common problem of comparing predictions of training data to target values in training data and also understood the concept of splitting data into training and testing data. I hope you will also spend some time learning the topics below. Excited on my journey ahead!!
+- **Topics:**
+  - Model Validation
+
+![Image](./images/Day5.PNG)
