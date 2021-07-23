@@ -49,3 +49,14 @@
   - Model Validation
 
 ![Image](./images/Day5.PNG)
+
+
+**Day6 of 66DaysOfData :books:**
+- **Intro to Machine Learning:** On my sixth day of #66DaysofData I completed my course on Intro to Machine Learning by Kaggle. Today I learned about the concept of Underfitting and Overfitting in machine learning models and how to find a sweet spot between them using MAE. I also learned about a new machine learning model known as Random Forests which is better than decision tree model. Finally I completed an assignment by working with Random Forests model. I hope you will also spend some time learning the topics below. Excited on my journey ahead!!
+- **Topics:**
+  - Underfitting and Overfitting
+  - Random Forests
+  - Machine Learning Competitions
+  - Intro to AutoML
+
+![Image](./images/Day6.PNG)
