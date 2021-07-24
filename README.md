@@ -60,3 +60,11 @@
   - Intro to AutoML
 
 ![Image](./images/Day6.PNG)
+
+
+**Day7 of 66DaysOfData :books:**
+- **Mathematics for Machine Learning: Linear Algebra:** On my seventh day of #66DaysofData I learned a bit about Linear Algebra. I decided to build a good foundation on Mathematics as it is very important to understand the logic behind the machine learning models. Today I learned about associative natures of vectors, vector addition, subtraction, scalar multiplication and different techniques to solve linear equations. I also understood about SSR. Excited on my journey ahead!!
+- **Topics:**
+  - Introduction to Linear Algebra and Mathematics for Machine Learning
+
+![Image](./images/Day7.PNG)
