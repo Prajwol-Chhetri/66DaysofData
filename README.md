@@ -71,7 +71,7 @@
 
 
 **Day8 of 66DaysOfData :books:**
-- **Mathematics for Machine Learning: Linear Algebra:** On my eigth day of #66DaysofData I learned how to calculate the size of a vector. I also learned about the dot product of vectors, projection and cosion dot product. Finally I did some execises on them. Excited on my journey ahead!!
+- **Mathematics for Machine Learning: Linear Algebra:** On my eighth day of #66DaysofData I learned how to calculate the size of a vector. I also learned about the dot product of vectors, projection and cosion dot product. Finally I did some execises on them. Excited on my journey ahead!!
 - **Topics:**
   - Modulus & Inner Product
 
