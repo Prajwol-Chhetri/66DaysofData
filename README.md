@@ -71,7 +71,7 @@
 
 
 **Day8 of 66DaysOfData :books:**
-- **Mathematics for Machine Learning: Linear Algebra:** On my eigth day of #66DaysofData I learned a bit about Size of vector.
+- **Mathematics for Machine Learning: Linear Algebra:** On my eighth day of #66DaysofData I learned a bit about Size of vector.
 - **Topics:**
   - Modulus & Inner Product
 
