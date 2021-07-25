@@ -68,3 +68,11 @@
   - Introduction to Linear Algebra and Mathematics for Machine Learning
 
 ![Image](./images/Day7.PNG)
+
+
+**Day8 of 66DaysOfData :books:**
+- **Mathematics for Machine Learning: Linear Algebra:** On my eigth day of #66DaysofData I learned a bit about Size of vector.
+- **Topics:**
+  - Modulus & Inner Product
+
+![Image](./images/Day8.PNG)
