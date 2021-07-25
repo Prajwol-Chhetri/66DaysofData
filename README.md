@@ -75,4 +75,4 @@
 - **Topics:**
   - Modulus & Inner Product
 
-![Image](./images/Day8.PNG)
+![Image](./images/Day8.png)
