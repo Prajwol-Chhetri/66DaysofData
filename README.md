@@ -76,3 +76,9 @@
   - Modulus & Inner Product
 
 ![Image](./images/Day8.png)
+
+**Day9 of 66DaysOfData :books:**
+- **Linear Algebra** On my ninth day of #66DaysofData I learned different concepts of vector like parametric representations of lines, reak coordinate spaces and more. Finally I did some exercises on them. Excited on my journey ahead!!
+- **Topics:**
+  - Vectors
+
