@@ -82,3 +82,9 @@
 - **Topics:**
   - Vectors
 
+**Day10 of 66DaysOfData :books:**
+- **Mathematics for Machine Learning: Linear Algebra:** On my tenth day of #66DaysofData I learned about application of changing basis in neural netrworks. I also learned more about the linear transformations, matrix multiplications, Cramer's rule and much more through [3Blue1Brown's](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) Essence of linear algebra playlist. Excited on my journey ahead!!
+- **Topics:**
+  - Essence of Linear ALgebra
+  - Vectors
+
