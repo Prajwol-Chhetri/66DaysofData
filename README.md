@@ -92,3 +92,8 @@
 - **Mathematics for Machine Learning: Linear Algebra:** On my eleventh day of #66DaysofData I learned about transformation of matrices in space, Gaussian Elimination, Inverse of a matrix, Determinants and much more. I also learned about echelon form of matrix through [aitude](https://www.aitude.com/explain-echelon-form-of-a-matrix/). Excited on my journey ahead!!
 - **Topics:**
   - Objects that operate on Vectors
+
+**Day12 of 66DaysOfData :books:**
+- **Supervised Vs Unsupervised Learning** On my twelfth day of #66DaysofData I learned about supervised and unsupervised learning. Excited on my journey ahead!!
+- **Topics:**
+  - Supervised Vs Unsupervised Learning
