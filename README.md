@@ -97,3 +97,10 @@
 - **Supervised Vs Unsupervised Learning** On my twelfth day of #66DaysofData I learned about supervised and unsupervised learning. Excited on my journey ahead!!
 - **Topics:**
   - Supervised Vs Unsupervised Learning
+
+**Day13 of 66DaysOfData :books:**
+- **Kaggle Coding Challenge** On my thirteenth day of #66DaysofData I did a problem based on one of the Kaggle competitions. I downloaded the dataset from kaggle implemented Random Forest Model to predict house prices. I also checked the MAE for the model. Excited on my journey ahead!!
+- **Topics:**
+  - Random Forest Model
+
+![Image](./images/Day13.png)
